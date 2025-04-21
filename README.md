@@ -8,7 +8,7 @@ To write a python program to find the inverse of a matrix
 ```
 Step 1: Import the numpy module to use the built-in functions for calculation
 Step 2: Prepare the lists from each linear equations and assign in np.array()
-Step 3: Using the np.linalg.solve(), we can find the solutions.
+Step 3: Using the np.linalg.inverse(), we can find the solutions.
 Step 4: End the program
 ```
 ## Program:
